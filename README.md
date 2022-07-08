@@ -1,4 +1,4 @@
-# TikTok Username Checker
+# Banit Username Checker
 one of the best checkers out there. Uses web api to check users validity.
 > ***accurate 98%***
 #

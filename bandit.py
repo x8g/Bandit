@@ -1,1 +1,1 @@
-sikee join .gg/soil & .gg/yow.
+sikee join .gg/soil
